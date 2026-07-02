@@ -1,12 +1,26 @@
 # 🤖 Agentic AI Study Planner
 
-An AI-powered Study Planner developed using **Python** and **Streamlit** that intelligently generates a personalized study timetable based on subjects, difficulty levels, and available study hours.
+An AI-powered Study Planner developed using **Python** and **Streamlit** that intelligently generates personalized study schedules based on subjects, difficulty levels, and available study hours.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Public Application:**
+
+**https://agentic-ai-study-planner-4nsjbfl77mzrij8qitnsj5.streamlit.app/**
+
+---
+
+## 💻 GitHub Repository
+
+**https://github.com/madhuri3005/Agentic-AI-Study-Planner**
 
 ---
 
 ## 📌 Project Overview
 
-The Agentic AI Study Planner helps students organize their study schedule efficiently by allocating study time according to subject difficulty and total available study hours.
+The **Agentic AI Study Planner** is a smart web application that helps students create an efficient study timetable. The application automatically allocates study time based on subject difficulty and total study hours, making study planning easier and more productive.
 
 ---
 
@@ -15,14 +29,15 @@ The Agentic AI Study Planner helps students organize their study schedule effici
 - 👨‍🎓 Student Information
 - 📚 Multiple Subject Entry
 - 🎯 Difficulty-Based Time Allocation
-- ⏰ Smart Study Timetable Generation
+- ⏰ Automatic Study Timetable Generation
 - 🤖 AI Study Suggestions
 - 📅 Daily Study Planning
-- 💻 Interactive Streamlit Interface
+- 💻 Interactive Streamlit User Interface
+- ⚡ Fast and Easy to Use
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Streamlit
@@ -33,7 +48,7 @@ The Agentic AI Study Planner helps students organize their study schedule effici
 
 ## 📂 Project Structure
 
-```
+```text
 Agentic-AI-Study-Planner/
 │
 ├── app.py
@@ -42,11 +57,12 @@ Agentic-AI-Study-Planner/
 ├── utils.py
 ├── requirements.txt
 ├── README.md
+└── screenshots/
 ```
 
 ---
 
-## 🚀 How to Run
+## 🚀 Installation
 
 ### Clone the Repository
 
@@ -54,13 +70,13 @@ Agentic-AI-Study-Planner/
 git clone https://github.com/madhuri3005/Agentic-AI-Study-Planner.git
 ```
 
-### Go to Project Folder
+### Navigate to the Project Folder
 
 ```bash
 cd Agentic-AI-Study-Planner
 ```
 
-### Install Required Libraries
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -74,21 +90,33 @@ streamlit run app.py
 
 ---
 
-## 📸 Output
+## 📸 Application Output
 
 The application generates:
 
-- Smart Study Plan
-- Study Timetable
-- AI Recommendations
+- 📚 Smart Study Plan
+- ⏰ Daily Timetable
+- 🤖 AI Study Suggestions
+- 📊 Time Allocation Based on Subject Difficulty
 
 ---
 
-## 🌐 Live Demo
+## 🌍 Live Application
 
-**Coming Soon**
+👉 **https://agentic-ai-study-planner-4nsjbfl77mzrij8qitnsj5.streamlit.app/**
 
-(Add your Streamlit deployment link here after deployment.)
+---
+
+## 🔮 Future Enhancements
+
+- 📊 Progress Dashboard
+- 📄 PDF Report Download
+- 💾 SQLite Database Integration
+- 📅 Calendar-Based Study Planner
+- 📈 Progress Tracking
+- 🌙 Dark Mode Support
+- 🔔 Study Reminder Notifications
+- 🤖 Advanced AI Recommendations
 
 ---
 
@@ -96,8 +124,14 @@ The application generates:
 
 **Madhuri Alla**
 
-GitHub:
-https://github.com/madhuri3005
+GitHub Profile:
+**https://github.com/madhuri3005**
+
+---
+
+## ⭐ Support
+
+If you like this project, please ⭐ star the repository on GitHub.
 
 ---
 
